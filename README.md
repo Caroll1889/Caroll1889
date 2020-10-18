@@ -18,8 +18,8 @@ My name is Diahan Hudgson and I'm Software developer. I'm from Colombia :colombi
 
 ## :mailbox: Where to find me
 
-### <a href="https://https://twitter.com/diacaroll/"><img src="twitter.png" alt="twitter"></a>
-### <a href="https://https://www.linkedin.com/in/diahan-hudgson//"><img src="linkedin.png" alt="linkedin"></a>
+### <a href="https://https://twitter.com/diacaroll/"></a>
+### <a href="https://https://www.linkedin.com/in/diahan-hudgson//"></a>
 
 
 ## :chart_with_upwards_trend:  GitHub Stats
