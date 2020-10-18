@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Caroll1889/Caroll1889/master/wave.gif" width="30px"> Hello, folks!  
+# :wave: Hello, folks!  
 
 My name is Diahan Hudgson and I'm Software developer. I'm from Colombia :colombia:, living in Medellin and currently studing at Holberton School Colombia.
 
@@ -18,9 +18,9 @@ My name is Diahan Hudgson and I'm Software developer. I'm from Colombia :colombi
 
 ## :mailbox: Where to find me
 
-### <a href="https://https://twitter.com/diacaroll/"><img src="twitter.png" alt="twitter">
-### </a> <a href="https://https://www.linkedin.com/in/diahan-hudgson//"><img src="linkedin.png" alt="linkedin"></a>
+### <a href="https://https://twitter.com/diacaroll/"><img src="twitter.png" alt="twitter"></a>
+### <a href="https://https://www.linkedin.com/in/diahan-hudgson//"><img src="linkedin.png" alt="linkedin"></a>
 
 
-## :chart_increasing:  GitHub Stats
+## :chart_increasing: GitHub Stats
 ![Caroll's github stats](https://github-readme-stats.vercel.app/api?username=Caroll1889&show_icons=true&theme=gruvbox)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caroll1889&layout=compact)](https://github.com/caroll1889/github-readme-stats)
