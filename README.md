@@ -10,8 +10,6 @@ I am Diahan Caroll Hudgson and I'm web developer, with knowledge and experience,
 
 ***
 
-<br>
-
 ## :chart_with_upwards_trend:  GitHub Stats
 
 <br>
@@ -25,18 +23,14 @@ I am Diahan Caroll Hudgson and I'm web developer, with knowledge and experience,
 
 ***
 
-<br>
-
 ## :newspaper: Blog Posts
 * [SEAHORSE PLUS: BEYOND THE MUSIC](https://medium.com/@carollhudgson/seahorse-plus-beyond-the-music-868e8f8451b2) 
 * [MACHINE LEARNING FOR DUMMIES](https://medium.com/@carollhudgson/machine-learning-for-dummies-ef27ff6d87c0)
 * [PYTHON3: EVERYTHING IS AN OBJECT…….](https://medium.com/@carollhudgson/python3-mutable-immutable-everything-is-object-d2c004f2705c)
 
 ***
-<br>
 
 ## 	:rocket: Skills
-
 
 <p align="center">
 <img src="https://img.icons8.com/ios/100/000000/html-filetype--v2.png"/>
@@ -49,8 +43,6 @@ I am Diahan Caroll Hudgson and I'm web developer, with knowledge and experience,
 </p>
 
 ***
-
-<br>
 
 ## :mag: Where can you find me?
 
