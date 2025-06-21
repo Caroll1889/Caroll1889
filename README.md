@@ -4,7 +4,7 @@
 
 <p align='center'>
 
-I am Diahan Caroll Hudgson and I'm web developer, with knowledge and experience, working in web technologies, delivering quality work. I'm passionate about creating and developing web interfaces.
+Serious, responsible, and dynamic person, with ease of adaptation. I am an avid learner and pay special attention to any opportunity to innovate and push for greater efficiency. QA Analyst with experience in both manual and automated testing, focused on ensuring the quality and performance of web applications. Involved in the full testing cycle, from requirement analysis to test execution and reporting, following agile methodologies and QA best practices. Skilled in tools such as Playwright, Postman, Git/GitHub, and CI/CD, with the ability to clearly identify and document bugs. Passionate about continuous improvement and learning in collaborative environments.
 
 </p>
 
