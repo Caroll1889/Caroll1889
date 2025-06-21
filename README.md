@@ -32,15 +32,14 @@ I am Diahan Caroll Hudgson and I'm web developer, with knowledge and experience,
 
 ## 	:rocket: Skills
 
-<p align="center">
-<img src="https://img.icons8.com/ios/100/000000/html-filetype--v2.png"/>
-<img src="https://img.icons8.com/color/100/000000/css3.png"/>
-<img src="https://img.icons8.com/color/100/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/96/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/ios-glyphs/100/000000/github.png"/>
-<img src="https://img.icons8.com/color/100/000000/mongodb.png"/>
-<img src="https://img.icons8.com/color/100/000000/python.png"/>
-</p>
+<div align="center">
+	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" alt="Playwright" title="Playwright"/></code>
+	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
+	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+</div>
 
 ***
 
@@ -48,9 +47,9 @@ I am Diahan Caroll Hudgson and I'm web developer, with knowledge and experience,
 
 <p align="center">
 <a href="https://twitter.com/diacaroll" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/twitter.png"/ alt="twitter:diahan-hudgson"></a>
+    <img src="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000"/ alt="twitter:diahan-hudgson"></a>
 <a href="https://www.linkedin.com/in/diahan-hudgson/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/ alt="linkedin:diahan-hudgson"></a>
+    <img src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000"/ alt="linkedin:diahan-hudgson"></a>
 <a href="https://diahancaroll.vercel.app/" target="_blank">    
     <img src="https://img.icons8.com/bubbles/100/000000/web.png"/ alt="website:diahan-hudgson"></a>
 </p>
